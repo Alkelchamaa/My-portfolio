@@ -130,6 +130,7 @@ body{
 input{
     margin-left: 50px;
 }
+
 @keyframes change_color {
     0%  { color: #D4AF47;}
     50% { color: #f2e855; }
