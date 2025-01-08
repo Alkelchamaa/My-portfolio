@@ -30,8 +30,6 @@ body{
     width: 80px;
     padding-left: 10px;
     border-radius: 5px;
-    cursor: pointer;
-    text-decoration: none;
 }
 .navbar-brand:hover{
     color:  #121212;
